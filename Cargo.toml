@@ -1,0 +1,9 @@
+[package]
+name = "mpd-fav-radio-web-client"
+version = "0.1.0"
+authors = ["Florian Heinemann <florian.heinemann@gmail.com>"]
+
+[dependencies]
+mpd = "0.0.12"
+futures = "~0.1"
+hyper = "0.11"
